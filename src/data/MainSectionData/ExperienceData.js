@@ -8,7 +8,7 @@ export const ExperienceData = {
     icon: MdWork,
     list: [
       {
-        position: "Desarrllador Web Front-end",
+        position: "Desarrollador Web Front-end",
         enterprise: "NAIVE labs, Colima",
         time: "Jun 2024 - Temporal",
         description:
@@ -30,7 +30,7 @@ export const ExperienceData = {
         ],
       },
       {
-        position: "Desarrllador Web Front-end",
+        position: "Desarrollador Web Front-end",
         enterprise: "Freelance, Colima",
         time: "2023",
         description:
